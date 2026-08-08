@@ -19,3 +19,5 @@ Console.WriteLine($".NET Version: {Environment.Version}");
 Console.WriteLine();
 Console.WriteLine("Estado: Proyecto inicializado");
 Console.WriteLine($"Version {version}");
+
+Console.WriteLine("Proximo paso: Checkpoint");

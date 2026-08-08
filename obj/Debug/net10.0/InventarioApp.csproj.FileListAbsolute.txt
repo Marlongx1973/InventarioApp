@@ -1,0 +1,14 @@
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\bin\Debug\net10.0\InventarioApp.exe
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\bin\Debug\net10.0\InventarioApp.deps.json
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\bin\Debug\net10.0\InventarioApp.runtimeconfig.json
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\bin\Debug\net10.0\InventarioApp.dll
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\bin\Debug\net10.0\InventarioApp.pdb
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.AssemblyInfoInputs.cache
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.AssemblyInfo.cs
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.csproj.CoreCompileInputs.cache
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.dll
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\refint\InventarioApp.dll
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.pdb
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\InventarioApp.genruntimeconfig.cache
+C:\Users\marlo\MARLONJCC\platzi\InventarioApp\obj\Debug\net10.0\ref\InventarioApp.dll
